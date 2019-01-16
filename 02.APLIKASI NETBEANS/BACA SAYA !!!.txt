@@ -1,0 +1,13 @@
+Untuk bisa mengunakan sistem maka diperlukan DateChooser , mysql-connector-java-5.1.23-bin
+Cara menggunakannya:
+1. pilih File pada kiri atas netbeans
+2. Pilih Properties
+3. Pilih Libraries
+4. hapus semua yang bermasalah " biasanya icon berwarna merah"
+4. pilih Add JAR/Folder
+5. cari folder lib yang berada diolahraga
+6. masukan semua yang ada difolder tsb
+7. setelah itu "OKE"
+
+by : 0cil650
+https://github.com/0cil650

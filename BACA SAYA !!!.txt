@@ -1,0 +1,12 @@
+Cara penggunaan aplikasi:
+1. koneksikan database yang berada di folder "01.DATABASE" ke localhost/phpmyadmin
+2. jalankan aplikasi yang berada di folder "03.SISTEM AKUTANSI JAVA.EXE" jalankan aplikasi "olahraga.jar"
+
+NB:
+01.DATABASE 			adalah folder berisikan database sistem akutansi toko olahraga
+02.APLIKASI NETBEANS		adalah folder berisikan netbeans sistem akutansi toko olahraga
+03.SISTEM AKUTANSI JAVA.EXE	adalah folder berisikan aplikasi sistem akutansi toko olahraga
+
+TERIMA KASIH SUDAH MAU MEMBACA
+by : 0cil650
+https://github.com/0cil650
